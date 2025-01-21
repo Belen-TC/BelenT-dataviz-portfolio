@@ -20,9 +20,7 @@ I believe these skills will directly support my career aspirations in policy res
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
  
-
 ## Assignment 3&4: [Critique by Design](critique-by-design)
- 
 
 ## Final project
 
