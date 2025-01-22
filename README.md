@@ -10,7 +10,7 @@ Hi, I’m Belen (she/her)! I’m a first-year Master’s student in the Public P
 # What I hope to learn
 I am taking this data visualization course to build a strong foundational background in presenting data in a meaningful way. I hope that course projects (including those on this page) will help me learn how to:
 
-- Use tools like Tableau and Python for data visualization.
+- Use tools like Tableau and Datawrapper for data visualization.
 - Create graphics that provide important information in a concise yet aesthetically pleasing way.
 - Be open to critiquing my own work to understand areas of improvement.
 
