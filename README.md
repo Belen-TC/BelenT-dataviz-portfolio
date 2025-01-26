@@ -18,7 +18,7 @@ I believe these skills will directly support my career aspirations in policy res
 
 # Portfolio
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](https://belen-tc.github.io/BelenT-dataviz-portfolio/dataviz-examples)
  
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
