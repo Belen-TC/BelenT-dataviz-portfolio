@@ -14,3 +14,17 @@ var divElement = document.getElementById('viz1737928111757');
  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+For the second visualization, I chose a line graph to highlight trend patterns over time. To reduce visual clutter, I focused exclusively on European countries and further filtered the data to include only those with available records between 1995 and 2019. During this process, I noticed that Estonia consistently maintained a much lower debt-to-GDP ratio compared to other countries, so I decided to emphasize it in the graph.  
+
+To draw attention to Estonia, I styled the other countries in light grey, making them appear as background information, while using a calm blue for Estonia to reflect its steady ratio over the time period. I also aimed for an eye-catching title by explicitly mentioning Estonia to immediately direct viewers to the graph's focus.
+
+<div class='tableauPlaceholder' id='viz1737938843641' style='position: relative'><noscript><a href='#'><img alt='Estonia: A Debt-to-GDP Outlier in Europe (1995–2019) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Es&#47;EstoniaADebt-to-GDPOutlierinEurope&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='EstoniaADebt-to-GDPOutlierinEurope&#47;Sheet2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Es&#47;EstoniaADebt-to-GDPOutlierinEurope&#47;Sheet2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+var divElement = document.getElementById('viz1737938843641');                    
+ var vizElement = divElement.getElementsByTagName('object')[0];                    
+ vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+ var scriptElement = document.createElement('script');                    
+ scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+ vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
