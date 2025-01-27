@@ -15,6 +15,7 @@ var divElement = document.getElementById('viz1737928111757');
  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 For the second visualization, I chose a line graph to highlight trend patterns over time. To reduce visual clutter, I focused exclusively on European countries and further filtered the data to include only those with available records between 1995 and 2019. During this process, I noticed that Estonia consistently maintained a much lower debt-to-GDP ratio compared to other countries, so I decided to emphasize it in the graph.  
 
 To draw attention to Estonia, I styled the other countries in light grey, making them appear as background information, while using a calm blue for Estonia to reflect its steady ratio over the time period. I also aimed for an eye-catching title by explicitly mentioning Estonia to immediately direct viewers to the graph's focus.
