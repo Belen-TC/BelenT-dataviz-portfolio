@@ -25,21 +25,19 @@ For representation data, I have identified several sources through the National 
 
 I also plan to incorporate academic research on diversity in museums. Several studies provide detailed analyses of representation gaps and conclude with recommendations for change. These findings will serve as a foundation for my call to action, reinforcing the need for greater equity in the art world.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
 | Name | URL | Description |
 |------|-----|-------------|
 |  National Museum of Women in the Arts    |https://nmwa.org/support/advocacy/5womenartists/history-impact/     |       #5WomenArtists Campaign      |
+|  Artists and Other Cultural Workers   | https://www.arts.gov/impact/research/NASERC/artists-and-other-cultural-workers    |    2022 Report         |
 |  Women's Place in the Art World    | https://news.artnet.com/womens-place-in-the-art-world/womens-place-art-world-museums-1654714    |    2018 Report         |
-|  Diversity of Artists in Major US Museums    | https://news.artnet.com/womens-place-in-the-art-world/womens-place-art-world-museums-1654714    |    Academic Research Paper         |
+|  Diversity of Artists in Major US Museums    | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212852    |    Academic Research Paper         |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+For my final project, I plan to use Shorthand to create an interactive website that presents the information outlined in my plan. The website will feature graphics and visualizations, which I will create using tools like Tableau and Datawrapper.
 
 ## References
 Naked Through the Ages — Guerrilla girls. (n.d.). Guerrilla Girls. https://www.guerrillagirls.com/naked-through-the-ages 
+Few people can name five female artists — can you? (2017, March 30). PBS News. https://www.pbs.org/newshour/arts/people-can-name-five-female-artists-can
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
