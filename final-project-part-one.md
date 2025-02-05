@@ -22,7 +22,7 @@ The second part of my sketches focused on designing the layout of my Shorthand w
 
 For the call to action at the bottom of the page, I want to create an interactive map—similar to one I found [online](https://www.galleriesnow.net/artmap/usa/), that highlights current exhibitions featuring women artists. This would provide viewers with a direct way to engage with the issue and explore ongoing efforts to improve representation.
 
-![Initial Sketches](Initial Sketches.jpg]
+![Initial Sketches](https://github.com/Belen-TC/BelenT-dataviz-portfolio/blob/main/Initial%20Sketches.jpg)
 
 # The data
 To gather data, I plan to consult sources that provide both historical context on advocacy campaigns and specific statistics on women's representation in museums.  
