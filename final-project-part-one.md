@@ -9,7 +9,7 @@ For my final project, I aim to highlight the impact of these campaigns and their
 To ensure the project is not solely focused on the negative, I will emphasize the campaigns’ successes and how they inspire action. The project will conclude with a list of current exhibitions showcasing women artists and actionable steps for involvement—such as engaging with social media movements like #5WomenArtists, educating ourselves on gender disparities in art, and signing petitions advocating for greater representation.  
 
 Below is a visual outline of how I plan to structure the project’s narrative.
-![visual outline](Visual Outline.jpg) 
+![visual outline](./Visual%20Outline.jpg)
 
 ## Initial sketches
 For my initial sketches, I had only a general idea of the types of visualizations I wanted to create and how best to design them. I used this sketching process to experiment with color schemes and explore different ways to represent the data I found online.
