@@ -9,7 +9,7 @@ For my final project, I aim to highlight the impact of these campaigns and their
 To ensure the project is not solely focused on the negative, I will emphasize the campaigns’ successes and how they inspire action. The project will conclude with a list of current exhibitions showcasing women artists and actionable steps for involvement—such as engaging with social media movements like #5WomenArtists, educating ourselves on gender disparities in art, and signing petitions advocating for greater representation.  
 
 Below is a visual outline of how I plan to structure the project’s narrative.
-![visual outline](https://github.com/Belen-TC/BelenT-dataviz-portfolio/blob/main/Visual%20Outline.jpg) 
+![visual outline](Visual Outline.jpg) 
 
 ## Initial sketches
 For my initial sketches, I had only a general idea of the types of visualizations I wanted to create and how best to design them. I used this sketching process to experiment with color schemes and explore different ways to represent the data I found online.
@@ -22,7 +22,7 @@ The second part of my sketches focused on designing the layout of my Shorthand w
 
 For the call to action at the bottom of the page, I want to create an interactive map—similar to one I found [online](https://www.galleriesnow.net/artmap/usa/), that highlights current exhibitions featuring women artists. This would provide viewers with a direct way to engage with the issue and explore ongoing efforts to improve representation.
 
-![Initial Sketches](https://github.com/Belen-TC/BelenT-dataviz-portfolio/blob/main/Initial%20Sketches.jpg)
+![Initial Sketches](Initial Sketches.jpg]
 
 # The data
 To gather data, I plan to consult sources that provide both historical context on advocacy campaigns and specific statistics on women's representation in museums.  
