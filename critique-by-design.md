@@ -1,15 +1,16 @@
  | [home page](https://belen-tc.github.io/BelenT-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
+# Makeover Monday 
+For this assignment, we were tasked with critiquing and redesigning a visualization from [Makeover Monday](https://makeovermonday.co.uk/). The process consisted of five steps designed to guide the creation of an effective visualization. Below is a breakdown of my work through each step.
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
+## Step One: The Visualization
 
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+For step one, we had to choose a visualization from Makeover Monday to work with. Makeover Monday is a website that publishes a new visualization every week along with a dataset, allowing participants to create more effective visualizations.
 
-## Step one: the visualization
+For my project, I selected a visualization featured on the website in April 2023, titled "Which Country Produces the Most Tomatoes." The original visualization (pictured below) was posted in the LinkedIn group "Business Intelligence, Analytics & Data Visualization" and was created using data from the Food and Agriculture Organization of the United Nations.
+![gif of visualization](./GIF%20of%20Visualization.gif)
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+I chose this visualization because I had never seen an animated bar graph used to show changes over time, making it an interesting challenge to critique and redesign. Since it features animation and various design elements, I considered it outside my usual skill set, which added to the learning opportunity. Additionally, the LinkedIn post provided very little context for the visualization, giving me the chance to rework it in a way that tells a clearer and more compelling story.
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
