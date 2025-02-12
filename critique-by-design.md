@@ -69,7 +69,7 @@ Attaching files - GitHub Docs. (n.d.). GitHub Docs. https://docs.github.com/en/g
 
 FAOSTAT. (n.d.). https://www.fao.org/faostat/en/#data/QCL
 
-(14) Post | Feed | LinkedIn. (n.d.). https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/
+LinkedIn. (n.d.). https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394/
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
