@@ -33,31 +33,15 @@ For my second sketch (pictured below), I quickly hand-drew a possible line graph
 ![Tableau Line Graph Draft](./Tableau%20Line%20Graph%20Draft.png)
 
 ## Step four: Test the solution
-
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-Results: 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+For the next step, we participated in an in-class critique where we received feedback on our redesign ideas using scripted questions. Below are the notes I took during this session. The classmates in my feedback group are labeled as Student 1, Student 2, and Student 3.
 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+| Question | Student 1 | Student 2 | Student 3 |
+|----------|-------------|-------------|-------|
+| Can you describe what this visualization is telling you?        | "China's tomato production is increasing." Mentioned that the red line stands out and the color made them think of China." |"The title is catchy and makes you think ooh what's happening." For this student the title helped them see what the story was about. Additionally, they pointed out that to them the red line made them think of the tomatoes. | Student 3 agreed that it was easy to interpret the graph. |  
+| After seeing the original design, do you think my interpretation is easier to understand?        |             |             |       |
+| Do you think the caption is necessary?         |             |             |       |
+| Is there anything you would change or do differently?         |             |             |       |
 
 Synthesis: 
 
