@@ -4,7 +4,6 @@
 For this assignment, we were tasked with critiquing and redesigning a visualization from [Makeover Monday](https://makeovermonday.co.uk/). The process consisted of five steps designed to guide the creation of an effective visualization. Below is a breakdown of my work through each step.
 
 ## Step One: The Visualization
-
 For step one, we had to choose a visualization from Makeover Monday to work with. Makeover Monday is a website that publishes a new visualization every week along with a dataset, allowing participants to create more effective visualizations.
 
 For my project, I selected a visualization featured on the website in April 2023, titled ["Which Country Produces the Most Tomatoes."](https://www.linkedin.com/feed/update/urn:li:activity:7038221922265915394) The original visualization (shown below) was posted in the LinkedIn group "Business Intelligence, Analytics & Data Visualization" and was created using data from the Food and Agriculture Organization of the United Nations.
@@ -13,9 +12,25 @@ For my project, I selected a visualization featured on the website in April 2023
 I chose this visualization because I had never seen an animated bar graph used to show changes over time, making it an interesting challenge to critique and redesign. Since it features animation and various design elements, I considered it outside my usual skill set, which added to the learning opportunity. Additionally, the LinkedIn post provided very little context for the visualization, giving me the chance to rework it in a way that tells a clearer and more compelling story.
 
 ## Step two: the critique
-_Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
+For the second step in the process, we were tasked with critiquing the visualization using Stephen Few's ["Data Visualization Effectiveness Profile."](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf) This method evaluates a visualization based on seven categories: usefulness, completeness, perceptibility, truthfulness, intuitiveness, aesthetics, and engagement.
+
+Initially, I assessed the visualization within a minute or less, assigning scores on a 1–10 scale based on first impressions. At first glance, I found the graph overwhelming due to unnecessary elements, such as a distracting background image of tomatoes and redundant components like both country names and flags (keeping just the country names would improve clarity). While the animated bars effectively showed changes over time, the rapidly changing numbers were difficult to read.
+
+During my second evaluation, some ratings remained the same, while others (such as usefulness) were harder to determine. The visualization is effective for a general audience in illustrating the leading tomato producers and their trends over time. However, for agricultural policymakers, researchers, or professionals, it lacks contextual information on factors influencing production fluctuations, such as global demand, climate change, or policy shifts.
+
+This critique helped me identify key improvements. I would simplify the design by reducing background colors, removing flags, and eliminating unnecessary elements like the donut chart. Additionally, I would choose the type of visualization based on the intended focus: a line graph for emphasizing trends over time and a bar graph for comparing specific years.
 
 ## Step three: Sketch a solution
+For the third step in the process, we created sketches to redesign the visualization based on our critiques.
+
+My first sketch (shown below) was a recreation of the animated bar graph in Tableau. Initially, I struggled with the dataset from FAOSTAT because it contained much more information than the original visualization. I had to narrow my focus to specific elements—countries, tomato production quantities, and years. Additionally, I had to clean the data by removing duplicate entries, such as redundant listings for "China" and "Mainland China." Once I recreated the visualization without distractions like the background image, it became much clearer how tomato production had changed over time. One key trend stood out: China's production surged rapidly in the 1990s.
+![Tableau Gif](./Tableau%20Gif.gif)
+
+Intrigued by this growth, I did some research and discovered that in 1993, private domestic companies began growing tomatoes in China's western highlands. Shortly after, China became the world’s leading producer of processed tomatoes. I decided to center my visualization around this transformation.
+
+For my second sketch (pictured below), I quickly hand-drew a possible line graph. I planned to highlight China’s trend line in red (symbolizing tomatoes) while keeping the other lines gray to make China’s rapid growth stand out. I also believed a line graph would better emphasize the point at which China’s production began accelerating. After sketching this concept, I started building it in Tableau (screenshot of the process shown below).
+![Line Graph Sketch](./Line%20Graph%20Sketch.jpg)
+![Tableau Line Graph Draft](./Tableau%20Line%20Graph%20Draft.png)
 
 ## Step four: Test the solution
 
