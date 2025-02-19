@@ -1,6 +1,6 @@
 | [home page](https://belen-tc.github.io/BelenT-dataviz-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
+# Storyboard
 Link to [Shorthand Preview](https://preview.shorthand.com/hEDLlpyhC9OgajWS)
 
 To begin the storyboard, I first outlined the story in a Google Doc. This helped ensure that I included all key points and allowed me to determine the most effective order for each section. Since I was unfamiliar with Shorthand, I figured writing everything out in a simple document would save time, as I could easily copy and paste the text later. Additionally, reviewing the content across different formats (Google Docs, Shorthand, and data visualizations) helped me catch errors and identify areas for improvement.
@@ -16,23 +16,21 @@ One of my biggest questions was whether to integrate data visualizations into th
 
 I am still finalizing these visualizations in Tableau and Datawrapper. During testing, I noticed that Shorthand does not fully support Tableau graphs, distorting the font and display. If I am unable to resolve this issue, I may explore alternative tools for presenting the data.
 
-# User research 
+# User Research 
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+## Target Audience
+Since my target audience is students interested in art history, gender studies, public policy, or cultural studies (whom are also likely to enjoy visiting museums and galleries) I wanted to ensure the visualizations and storyboard were engaging and easy to understand. To gather feedback, I primarily interviewed fellow classmates, as they closely align with the intended audience. Their insights helped me refine the presentation, ensuring that key takeaways were clear and the visuals effectively conveyed the data.
 
-Text here!
-
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+## Interview Script
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|  Are key facts highlighted and noticeable    | When looking at the timeline, where is your eye drawn?                 |
+| at should be the main focus?     | Would it be helpful to have related visualizations within the timeline events?                 |
+|Determine the best structure for presenting information.      |Would placing data visualizations in a separate section improve clarity?                   |
+|Assess color scheme effectiveness and overall readability.      | Is anything difficult to see or understand?                  |
+|Ensure the story resonates with the target audience.      | Who do you think the intended audience is?                  |
+|Gather ideas for expanding the content. | Is there anything else you would like to see? Additional visualizations? |
 
 
 Text here!
@@ -69,7 +67,13 @@ Text here!
 # Moodboard
 
 ![women artists vision board](./Women%20Artists%20Mood%20Board.png)
-Text here!
+To refine the color scheme, typography, and overall design for my Shorthand presentation and data visualizations, I created a mood board. While researching similar infographics, I noticed that pink was frequently used for topics related to gender equity in the arts. Although I liked the aesthetic, I was concerned that pairing pink with blue might reinforce gender stereotypes. To avoid this, I decided to expand the color palette while maintaining the softness of pink.
+
+For inspiration, I turned to Hung Liu’s painting Winter With Cynical Fish, featured in the National Museum of Women in the Arts. The painting’s blend of soft purples, pinks, and grays became the foundation of my color scheme. I then built upon this by selecting additional colors from other artworks, ultimately curating a cohesive six-color palette.
+
+The mood board also includes typography samples, allowing me to see how my chosen fonts appear against different backgrounds. Maintaining consistent typography across Shorthand, graphs, and infographics will help create a unified visual flow. Additionally, I gathered examples of past data visualizations to use as inspiration for presenting my own findings.
+
+Creating this mood board will streamline the design process and prevent me from overthinking minor aesthetic choices. By finalizing colors and fonts in advance, I can focus on assembling the final presentation without unnecessary delays.
 
 ## References
 _List any references you used here._
