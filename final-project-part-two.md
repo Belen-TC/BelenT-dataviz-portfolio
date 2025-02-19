@@ -43,19 +43,18 @@ Since my target audience is students interested in art history, gender studies, 
 |Who do you think the intended audience is?   | Since the student was part of the intended audience I modified the question to see if it was easy for them to understand the story/data visualizations. Student stated she liked the story and how everything was connected through the use of color. | Since the student was part of the intended audience I modified the question to see if it was easy for them to understand the story/data visualizations. Student said she liked the story and thought the data visualizations were effective in getting the point across. She mentioned adding a small section on why representation is important in art museums.            |             |
 | Is there anything else you would like to see? Additional visualizations? | Student mentioned adding an animated line graph that showed how the number of collections has changed over time.  | Student figured it would be helpful to have a map of museums to see which museums/areas support women artists more. Seeing this map may lead people to visit those musuems.     |             |
 
-# Identified changes for Part III
+# Identified Changes for Part III
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Font readability  | Bold call out facts to further emphasize them and improve readability. |
+| Background images | Add an overlay effect so it easier to read text that appears over images. |
+| Timeline  | Will include only pivotal events in history. Each year will have a small paragraph describing the event.       |
+| Data visualizations | Using line graphs and/or animations to illustrate change over time.    |
+| Tableau visualizations |  If the graph does not need to be interactive, using a different data visualization tool may help make the graphs more visually appealing and in theme with the presentation. |
+| Call to action | Add links to the referenced activists groups. Include a map of current exhibitions that people can visit. |
 
-> ...include any final thoughts you have here. 
-
-Text here!
+After conducting the interviews, I feel more confident in what I have completed in Shorthand. The students I interviewed shared similar critiques, which reinforced that the story component works well with the text and existing visualizations. Their feedback also helped me identify the key areas that need improvement. Moving forward, I plan to focus on determining the main points for my one-minute presentation, as this will guide the creation of visualizations in the third section of Shorthand. Additionally, the interviews confirmed that the colors, fonts, and overall stylization are effective, so I no longer need to make adjustments in those areas. 
 
 # Moodboard
 ![women artists vision board](./Women%20Artists%20Mood%20Board.png)
