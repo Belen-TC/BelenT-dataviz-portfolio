@@ -26,31 +26,24 @@ Since my target audience is students interested in art history, gender studies, 
 | Goal | Questions to Ask |
 |------|------------------|
 |  Are key facts highlighted and noticeable    | When looking at the timeline, where is your eye drawn?                 |
-| at should be the main focus?     | Would it be helpful to have related visualizations within the timeline events?                 |
+| What should be the main focus?     | Would it be helpful to have related visualizations within the timeline events?                 |
 |Determine the best structure for presenting information.      |Would placing data visualizations in a separate section improve clarity?                   |
 |Assess color scheme effectiveness and overall readability.      | Is anything difficult to see or understand?                  |
 |Ensure the story resonates with the target audience.      | Who do you think the intended audience is?                  |
 |Gather ideas for expanding the content. | Is there anything else you would like to see? Additional visualizations? |
 
-
-Text here!
-
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Grad Student (1) | Exchange Student (2) | Undergrad Student (3) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+| When looking at the timeline, where is your eye drawn? | Student noticed the pink text but thought it was a little difficult to read. She suggested I bold the text to further emphasize the point and improve readability. | Student suggested that if I wanted the facts (like fewer than 3%) to be the focal point I should have a the percent in large text and a very short caption underneath explaining what they meant. Howevever, she noted that have background information on the historical event was useful.             |             |
+| Would it be helpful to have related visualizations within the timeline events? | Student suggested that if I had enough data for each event to create different visualizations then I should include them in the timeline. When I explained that there was limited data, she concluded that have key numbers highlighted would be more helpful in driving the main point across.                              | Student believed that because each event already had an associated image, adding a data visualization would make everything seem a bit cluttered. She thought it would be more visually appealing if the timeline was made up of small paragraphs.           |             |
+|Would placing data visualizations in a separate section improve clarity?                           | Student pointed out that if the graphs followed points in the timeline then it would be helpful to have them in the following section. After explaining that the visualizations would be based on the data from the study in the last point in the timeline, Student liked how the story progressed throughout each section.        | Student agreed that the visualizations should be in a separate section especially if they would be focusing on change over time. She also mentioned that having them in a separate question would allow there to be more space for the graphs.          |             |
+|Is anything difficult to see or understand? | Student suggested I bold the call out facts in the timeline to further emphasize them. She like the color scheme I chose for the presentation.  | Student noted that the text that appeared on top of images (like the title or call to action) were a bit difficult to read. She recommended I added a transparent color behind the text to make it easier to read. She also mentioned that have the overlay box match the color of the images would make it more visually pleasing.           |             |
+|Who do you think the intended audience is?   |                               |             |             |
+| Is there anything else you would like to see? Additional visualizations? | Student mentioned adding an animated line graph that showed how the number of collections has changed over time.  | Student figured it would be helpful to have a map of museums to see which museums/areas support women artists more. Seeing this map may lead people to visit those musuems.     |             |
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -65,7 +58,6 @@ Text here!
 Text here!
 
 # Moodboard
-
 ![women artists vision board](./Women%20Artists%20Mood%20Board.png)
 To refine the color scheme, typography, and overall design for my Shorthand presentation and data visualizations, I created a mood board. While researching similar infographics, I noticed that pink was frequently used for topics related to gender equity in the arts. Although I liked the aesthetic, I was concerned that pairing pink with blue might reinforce gender stereotypes. To avoid this, I decided to expand the color palette while maintaining the softness of pink.
 
@@ -76,7 +68,7 @@ The mood board also includes typography samples, allowing me to see how my chose
 Creating this mood board will streamline the design process and prevent me from overthinking minor aesthetic choices. By finalizing colors and fonts in advance, I can focus on assembling the final presentation without unnecessary delays.
 
 ## References
-_List any references you used here._
+Adding additional fonts - Shorthand Support. (2024, September 10). Shorthand Support. https://support.shorthand.com/en/articles/145-adding-additional-fonts
 
 ## AI acknowledgements
 _If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
