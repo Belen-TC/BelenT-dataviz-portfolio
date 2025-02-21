@@ -68,7 +68,9 @@ Creating this mood board will streamline the design process and prevent me from 
 
 ## References
 Adding additional fonts - Shorthand Support. (2024, September 10). Shorthand Support. https://support.shorthand.com/en/articles/145-adding-additional-fonts
+
 Scrollpoints section - Shorthand Support. (2024, October 1). Shorthand Support. https://support.shorthand.com/en/articles/150-scrollpoints-section
+
 Use custom fonts. (n.d.). Tableau. https://help.tableau.com/current/pro/desktop/en-us/formatting_create_custom_fonts.htm
 
 ## AI acknowledgements
