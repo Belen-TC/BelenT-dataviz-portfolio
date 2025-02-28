@@ -18,8 +18,8 @@ I believe these skills will directly support my career aspirations in policy res
 
 # Portfolio
 
-## [Data Viz Examples](https://belen-tc.github.io/BelenT-dataviz-portfolio/dataviz-examples)
+## In-Class Tutorials: [Data Viz Examples](https://belen-tc.github.io/BelenT-dataviz-portfolio/dataviz-examples)
  
-## [Critique by Design](critique-by-design)
+## Assignment 4: [Critique by Design](critique-by-design)
 
 ## Final Project: [Part I](https://belen-tc.github.io/BelenT-dataviz-portfolio/final-project-part-one) [Part II](https://belen-tc.github.io/BelenT-dataviz-portfolio/final-project-part-two) [Part III](https://belen-tc.github.io/BelenT-dataviz-portfolio/final-project-part-three)
