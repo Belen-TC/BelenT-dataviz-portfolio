@@ -1,8 +1,8 @@
 | [home page](https://belen-tc.github.io/BelenT-dataviz-portfolio/) | [Data Viz Examples](dataviz-examples) | [Critique by Design](critique-by-design) | [Final Project I](final-project-part-one) | [Final Project II](final-project-part-two) | [Final Project III](final-project-part-three) |
 
 # The Final Data Story
-> Link to published Shorthand Story ---
-
+> Link to published [Shorthand Story](https://carnegiemellon.shorthandstories.com/representation-of-women-artists-in-major-u-s-art-museums/index.html)
+> Link to [Shorthand Preview](https://preview.shorthand.com/hEDLlpyhC9OgajWS) 
 
 # Changes Made Since Part II
 After completing user research in Part II, I focused on identifying key points for my one-minute presentation, which helped guide the creation of visualizations in Tracing the Numbers: Why Data Matters in the Fight for Equity and refining the call to action.
