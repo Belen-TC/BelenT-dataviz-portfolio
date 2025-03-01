@@ -2,6 +2,7 @@
 
 # The Final Data Story
 > Link to published [Shorthand Story](https://carnegiemellon.shorthandstories.com/representation-of-women-artists-in-major-u-s-art-museums/index.html)
+
 > Link to [Shorthand Preview](https://preview.shorthand.com/hEDLlpyhC9OgajWS) 
 
 # Changes Made Since Part II
